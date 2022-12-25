@@ -1,0 +1,1 @@
+![План разработки приложения](https://raw.githubusercontent.com/OOO-DaemanTool/Parser_marketplases/main/docs/%D0%AD%D1%82%D0%B0%D0%BF%D1%8B%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8.drawio.png)
