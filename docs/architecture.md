@@ -8,4 +8,4 @@ Backand Python
 База данных SQL  
 Хотсинг Fornex  
 
-![Диаграмма архитектуры]([https://myoctocat.com/assets/images/base-octocat.svg](https://raw.githubusercontent.com/OOO-DaemanTool/Parser_marketplases/main/docs/Arcitecture.drawio.png))
+![Диаграмма архитектуры](https://raw.githubusercontent.com/OOO-DaemanTool/Parser_marketplases/main/docs/Arcitecture.drawio.png)
