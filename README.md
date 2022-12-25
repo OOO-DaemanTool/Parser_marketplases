@@ -12,5 +12,7 @@ Frontend на flask python
 Backend на python  
 Парсер на python  
 
-[Архитектура проекта](docs/architecture.md)
+[Архитектура](docs/architecture.md)
+[Процессы](docs/process.md)
+[Команда](docs/team.md)
 
